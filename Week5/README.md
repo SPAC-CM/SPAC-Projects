@@ -1,7 +1,15 @@
 # PDF Downloader
 
 ## Prerequisites
-To run the project simply first run
+To run the project simply first create a new virtual environment
+```
+python -m venv .venv
+```
+for windows make sure that LocalMachine execution policy is set to AllSigned
+```
+Set-ExecutionPolicy -ExecutionPolicy AllSigned -Scope LocalMachine
+```
+then run
 ```
 ./.venv/Scripts/activate
 ```
