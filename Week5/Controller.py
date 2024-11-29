@@ -3,7 +3,7 @@ from typing import Optional
 import os
 import argparse
 
-#Class for instantiating a download from a file into a given path
+#Class for instantiating a download from a file into a given path. 
 class Controller(object):
 
     #Initiates the controller class with default values

@@ -1,4 +1,5 @@
-**/.venv/Lib/
+**/.venv
 **/*.csv
+
 Week4/Data_set.txt
 Week5/files/

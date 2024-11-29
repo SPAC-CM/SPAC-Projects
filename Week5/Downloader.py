@@ -1,7 +1,7 @@
 import requests
 from typing import Optional
 
-#Class for handling a single download
+#Class for handling a single download. The function main functionality is to take an url and download it into the path
 class Downloader(object):
 
     #uses a url link and a destination to download a file. Optionally one can use an alt url if applicaple
